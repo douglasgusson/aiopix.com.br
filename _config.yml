@@ -1,0 +1,39 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Aiopix Soluções em Tecnologia
+email: contato@aiopix.com.br
+description: Aiopix Soluções em Tecnologia se trata de uma equipe preparada que oferece soluções em tecnologia, focada em desenvolvimento de sites, suporte e manutenção de computadores e construção de ambientes informátizados.
+keywords: criação de sites, desenvolvimento de sites, empresas que fazem sites, lojas virtuais, empresas que criam sites, manutenção de sites, criação de sites no es, criação de sites no espírito santo, otimização de sites, criação de websites, empresa de criação de sites, soluções em sites, desenvolvimento de websites, criacao de sites, google adwords, publicidade online, Cachoeiro de Itapemirim - ES, SEO, Marketing Digital, hospedagem de sites, empresa de sites no espirito santo, contratar empresa de site, empresa que faz site, web sites, webdesign, cachoeiro de itapemirim, castelo, empresas de produção de websites, construção de sites, sistemas web, soluções em php, sites em php, criação de sites seguros, criação de sites confiáveis, empresa de design gráfico, empresa para hospedar meu site, registrar meu domínio, hospedar meu website, quebra de código, manutenção de computadores, servidores personalizados, rede wireless, rede sem fio, wi-fi
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.aiopix.com.br" # the base hostname & protocol for your site, e.g. http://example.com
+lang: pt-br
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
